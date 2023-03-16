@@ -3,7 +3,7 @@
 
 <template>
   <main>
-    Home View
+    Refugee View
   </main>
 </template>
 
